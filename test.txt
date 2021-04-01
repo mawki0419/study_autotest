@@ -1,0 +1,5 @@
+http://api.k780.com:88/?app=phone.get&phone=13093452121&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json
+http://api.k780.com:88/?app=phone.get&phone=&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json
+http://api.k780.com:88/?app=phone.get&phone=1&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json
+http://api.k780.com:88/?app=phone.get&phone=1311270335&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json
+http://api.k780.com:88/?app=phone.get&phone=130934521211&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json
